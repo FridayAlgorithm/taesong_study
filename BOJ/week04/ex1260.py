@@ -1,4 +1,4 @@
-# dfs bfs 1260
+# BOJ dfs/bfs dfs와 bfs  1260
 from collections import deque
 
 N, M, V = map(int, input().split())  # N 정점의 개수, M 간선의 개수, V 시작 정점
