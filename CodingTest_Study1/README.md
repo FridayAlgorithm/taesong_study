@@ -1,13 +1,26 @@
 # ✏️알고리즘 스터디
 
-## ✨ 스터디 방식
-
-* 진행 시간 : 금요일 오후 10시 / 공휴일 리뷰 시간 : 금요일 오전 11시
-* 구글 meet로 진행
-* 리뷰는 당일 사다리타기
+## ✨ 스터디 방식 및 이력
+### 2021-03-27 
 * 15주차~ 프로그래머스 주 6문제 스터디 (현재 진행 중) 
+### 2021-03-25
 * 10-14주차 BOJ 유형 힌트 없는 문제집 선정 후 풀이 (종료)
-* 02-10주차 BOJ 단계별 문제집 2문제씩 풀기 (주 10문제) - (종료)
+### 2021-02-25
+* 주희님 3주 연속 불참 - 인턴 준비 및 합격 ㅂㅇ
+
+### 2021-12-27
+* 재우님 합류
+
+### 2020-12-25 첫 스터디 시작
+* 겨울 방학 매 주차 백준 10문제씩 풀기 
+* 준영님, 다솔님, 주희님 4인 스터디
+* 스터디 시간 : 금요일 오후 10시 / 공휴일 리뷰 시간 : 금요일 오전 11시
+* 플랫폼: Google Meet을 통한 비대면 스터디
+* 진행 방식: 당일 사다리 타기로 각자 2문제씩 선정 후 코드 리뷰.
+* 문제 선정 : BOJ 단계별 문제집 2문제씩 풀기 (주 10문제) - (종료)  
+
+
+### 2020-12-23 첫 스터디 모임
 * 1주차 오리엔테이션 및 스터디 방향성 설정
 
 
@@ -16,6 +29,9 @@
 
 | 차수 | 모임날짜 | 문제 | 유형 |
 |--|--|--|--|
+| 19주차(4.24~4.30)   | 4.30      |  [전화번호목록](https://programmers.co.kr/learn/courses/30/lessons/425775)<br>[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747)<br>[구명보트](https://programmers.co.kr/learn/courses/30/lessons/42885)<br>[위장](https://programmers.co.kr/learn/courses/30/lessons/42578)<br>[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)<br> [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)                                           |  [프로그래머스](https://programmers.co.kr/learn/challenges)<br>
+| 18주차(4.17~4.23)   | 4.23      |  [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)<br>[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626)<br>[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)<br>[메뉴 리뉴얼](https://programmers.co.kr/learn/courses/30/lessons/72411)<br>[가장 큰수](https://programmers.co.kr/learn/courses/30/lessons/42746)<br> [큰 수 만들기](https://programmers.co.kr/learn/courses/30/lessons/42883                                           |  [프로그래머스](https://programmers.co.kr/learn/challenges)<br>
+| 17주차(4.10~4.16)   | 4.16      |  [삼각달팽이](https://programmers.co.kr/learn/courses/30/lessons/68645)<br>[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)<br>[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)<br>[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)<br>[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901)<br> [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)                                           |  [프로그래머스](https://programmers.co.kr/learn/challenges)<br>
 | 16주차(4.03~4.09)   | 4.09      |  [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899)<br>[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583)<br>[스킬트리](https://programmers.co.kr/learn/courses/30/lessons/49993)<br>[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410)<br>[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)<br> [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057)                                           |  [프로그래머스](https://programmers.co.kr/learn/challenges)<br>
 | 15주차(3.27~4.02)   | 4.02      |  [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)<br>[두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644)<br>[기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586)<br>[멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048)<br>[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)<br> [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584)                                           |  [프로그래머스](https://programmers.co.kr/learn/challenges)<br>
 | 14주차(3.20~3.26)   | 3.26      |  [2659. 십자카드 문제](https://www.acmicpc.net/problem/2659)<br>[1715. 카드 정렬하기](https://www.acmicpc.net/problem/1715)<br> [2293. 동전 1](https://www.acmicpc.net/problem/2293)<br>[2668. 숫자고르기](https://www.acmicpc.net/problem/2668)<br>[2641. 다각형그리기](https://www.acmicpc.net/problem/2641)<br>  [2660. 회장뽑기](https://www.acmicpc.net/problem/2660)<br>[2529. 부등호](https://www.acmicpc.net/problem/2529)<br> [2650. 교차점개수](https://www.acmicpc.net/problem/2650)<br> [2669. 직사각형 네개의 합집합의 면적 구하기](https://www.acmicpc.net/problem/2669)<br>[2658. 직각이등변삼각형찾기](https://www.acmicpc.net/problem/2658)<br>                                           |  [BOJ  길라잡이 베타](https://www.acmicpc.net/workbook/view/2418)<br>[초등학교를 졸업하자](https://www.acmicpc.net/workbook/view/140)
